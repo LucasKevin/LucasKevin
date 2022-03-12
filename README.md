@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Kevin
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Em busca de um emprego na área de developer
 - 🌱 Estudando Html, css e JavaScript
 - 😄 Pronouns: ele/dele
 
