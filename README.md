@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Lucas Kevin
 
 
-- 🔭 Em busca de um emprego na área de developer
-- 🌱 Estudando Html, css e JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Em busca de um emprego na área de web developer
+- 🌱 Estudando Html, Css, JavaScript e Python
 
 <div align="center">
   <a href="https://github.com/LucasKevin">
