@@ -1,8 +1,16 @@
-## Olá! Eu sou o Lucas Kevin
+## Olá! Me chamo Lucas Kevin e sou Desenvolvedor Full-Stack.
 
+Atuo na área de tecnologia a aproximadamente 2 anos. Tenho como principal linguagem JavaScript.
 
-- 🔭 Sou desenvolver full-stack
-- 🌱 JavaScript, Node e Python
+Dentre algumas das minhas competências estão:
+
+🐗 JavaScript
+🤖 React
+🎲 Banco de dados
+🧿 Azure
+💻 Windows
+🛜 Redes
+🎟️ Office 365
 
 <div align="center">
   <a href="https://github.com/LucasKevin">
