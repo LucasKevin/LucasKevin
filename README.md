@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Kevin
 
 
-- 🔭 Em busca de um emprego na área de web developer
-- 🌱 Estudando Html, Css, JavaScript e Python
+- 🔭 Sou desenvolver full-stack
+- 🌱 JavaScript, Node e Python
 
 <div align="center">
   <a href="https://github.com/LucasKevin">
