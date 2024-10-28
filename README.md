@@ -32,8 +32,6 @@ Dentre algumas das minhas competências estão:
   <a href = "https://www.linkedin.com/in/lucas-kevin-32440522b/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
   <a href = "https://mail.google.com/mail/u/1/#inbox"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
  
-  ![Snake animation](https://github.com/LucasKevin/LucasKevin/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
   
