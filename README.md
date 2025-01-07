@@ -1,11 +1,11 @@
 ## Olá! Me chamo Lucas Kevin e sou Desenvolvedor Full-Stack.
 
-Atuo na área de tecnologia a aproximadamente 2 anos. Tenho como principal linguagem JavaScript.
+Atuo na área de tecnologia a aproximadamente 2 anos. Tenho como principal linguagem C#/.Net e JavaScript.
 
 Dentre algumas das minhas competências estão:
 
 🐗 JavaScript
-🤖 React
+🤖 C#/.Net
 🎲 Banco de dados
 🧿 Azure
 💻 Windows
